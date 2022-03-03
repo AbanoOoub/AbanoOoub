@@ -8,12 +8,8 @@
     ![linkedin](https://img.shields.io/badge/Abanoub%20Lotfy-0A66C2?style=flat&logo=linkedin&logoColor=white&logoWidth=20)
 ][linkedin]
 
-- BSc degree in computer science.
+- BSc degree in Computer Science from Ain Shams University.
 - I'm working as a Software Engineer | Flutter Developer.
-
-</div>
-
-</div>
 
 ---
 
