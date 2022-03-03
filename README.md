@@ -1,7 +1,7 @@
 ## Hi There, I'm [Abanoub Lotfy] 👋
 
 <div >
-    <img align="right" src="https://tenor.com/view/coding-gif-24297652.gif" width="400"  height="300">
+    <img align="right" src="https://tenor.com/view/coding-gif-24297652.gif" width="300"  height="200">
 </div>
 
 [
