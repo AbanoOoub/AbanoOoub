@@ -1,16 +1,35 @@
-### Hi there 👋
+## Hi There, I'm [Abanoub Lotfy] 👋
 
-<!--
-**AbanoOoub/AbanoOoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div >
+    <img align="right" src="https://tenor.com/view/coding-gif-24297652.gif" width="400"  height="300">
+</div>
 
-Here are some ideas to get you started:
+[
+    ![linkedin](https://img.shields.io/badge/Abanoub%20Lotfy-0A66C2?style=flat&logo=linkedin&logoColor=white&logoWidth=20)
+][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- BSc degree in computer science.
+- I'm working as a Software Engineer | Flutter Developer.
+
+</div>
+
+</div>
+
+---
+
+![github status](https://github-readme-stats.vercel.app/api?username=AbanoOoub&show_icons=true&hide_border=false&count_private=true&icon_color=ffff00&title_color=ffff00&text_color=dddddd&bg_color=22272E)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbanoOoub)](https://git.io/streak-stats)
+
+---
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" **alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" **alt="VisualStudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
+
+</div>
+
+<!-- variables -->
+[linkedin]: https://www.linkedin.com/in/abanoub-lotfy/
