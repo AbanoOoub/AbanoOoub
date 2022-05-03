@@ -1,7 +1,7 @@
 ## Hi There, I'm [Abanoub Lotfy] 👋
 
 <div >
-    <img align="right" src="https://tenor.com/view/coding-gif-24297652.gif" width="300"  height="200">
+    <img align="right" src="https://tenor.com/view/coding-gif-24297652.gif" width="400"  height="300">
 </div>
 
 [
@@ -25,6 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
 </div>
+
 
 <!-- variables -->
 [linkedin]: https://www.linkedin.com/in/abanoub-lotfy/
