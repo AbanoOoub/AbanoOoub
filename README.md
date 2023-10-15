@@ -23,8 +23,10 @@
 
 ---
 
-![github status](https://github-readme-stats.vercel.app/api?username=AbanoOoub&show_icons=true&hide_border=false&count_private=true&icon_color=ffff00&title_color=ffff00&text_color=dddddd&bg_color=22272E)
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbanoOoub&theme=dark)](https://git.io/streak-stats) -->
+<!--![github status](https://github-readme-stats.vercel.app/api?username=AbanoOoub&show_icons=true&hide_border=false&count_private=true&icon_color=ffff00&title_color=ffff00&text_color=dddddd&bg_color=22272E) -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbanoOoub&theme=dark)](https://git.io/streak-stats)
+
+
 
 <a href="https://komarev.com/ghpvc/?username=AbanoOoub&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=AbanoOoub&style=for-the-badge">
