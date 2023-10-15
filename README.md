@@ -1,6 +1,6 @@
 
 <div >
-    <img align="right" src="https://tenor.com/view/coding-gif-24297652.gif" width="400"  height="300">
+    <img align="right" src="https://tenor.com/view/coding-gif-24297652.gif" width="500"  height="300">
 </div>
 
 <h1 align="center">
@@ -16,21 +16,19 @@
 - BSc degree in Computer Science from Ain Shams University.
 - I'm working as a Software Engineer | Flutter Developer.
 
+<!--<a href="https://komarev.com/ghpvc/?username=AbanoOoub&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=AbanoOoub&style=for-the-badge">
+</a>-->
+
 ## Contact With Me: 
 <a href="https://www.linkedin.com/in/abanoub-lotfy/" target="_blank"><img src="https://img.shields.io/badge/-Abanoub%20Lotfy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-
+<a href="mailto:abanoublotfymatta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Abanoub%20Lotfy-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 ---
 
 <!--![github status](https://github-readme-stats.vercel.app/api?username=AbanoOoub&show_icons=true&hide_border=false&count_private=true&icon_color=ffff00&title_color=ffff00&text_color=dddddd&bg_color=22272E) -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbanoOoub&theme=dark)](https://git.io/streak-stats)
-
-
-
-<a href="https://komarev.com/ghpvc/?username=AbanoOoub&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=AbanoOoub&style=for-the-badge">
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbanoOoub&theme=dark)](https://git.io/streak-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoOoub&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ---
 <div>
