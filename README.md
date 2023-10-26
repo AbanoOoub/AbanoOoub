@@ -1,6 +1,6 @@
 
 <div >
-    <img align="right" src="https://tenor.com/view/coding-gif-24297652.gif" width="500"  height="300">
+    <img align="right" src="https://tenor.com/view/coding-gif-24297652.gif" width="350"  height="300">
 </div>
 
 <h1 align="center">
