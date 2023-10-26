@@ -23,6 +23,7 @@
 ## Contact With Me: 
 <a href="https://www.linkedin.com/in/abanoub-lotfy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:abanoublotfymatta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=Gmail&logoColor=white&color=red"/></a>
+<a href="https://docs.google.com/document/d/1_SQTy-y38Opb4xKZEhj6M597NOf3AvHbcu7zgt_QMY8/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/resume-ffffff?style=for-the-badge&logoColor=white&color=grey"/></a>
 
 ---
 
