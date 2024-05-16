@@ -1,15 +1,12 @@
-
-<div >
-    <img align="right" src="https://tenor.com/view/coding-gif-24297652.gif" width="350"  height="300">
-</div>
-
 <h1 align="center">
-  Welcome to Abanoub Lotfy's profile
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Abanoub Lotfy's profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
+<!-- <img align="right" src="https://tenor.com/view/coding-gif-24297652.gif" width="250"  height="180"> -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Always%20Ready%20For%20new%20Challengs&font=Fira%20Code&center=true&width=440&height=45&color=06B0DD&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Always%20Ready%20For%20New%20Challengs&font=Fira%20Code&center=true&width=440&height=45&color=06B0DD&vCenter=true&size=22"></a>
+    
 </p> 
 
 
